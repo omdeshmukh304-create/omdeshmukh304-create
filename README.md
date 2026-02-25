@@ -35,4 +35,4 @@ To become a job-ready DevOps Engineer by building real-world projects and master
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link)
+- LinkedIn: https://www.linkedin.com/in/om-deshmukh-072441369
