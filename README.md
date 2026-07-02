@@ -83,7 +83,7 @@ Implementation of Prometheus, Grafana, Loki, and OpenTelemetry for collecting me
 
 ## 📜 Certification
 
-* DevOps Certification – TrainWithShubham
+* DevOps Certification – https://www.trainwithshubham.com/share-certificate?serialno=HZHMIKOK
 
 ---
 
