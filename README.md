@@ -104,16 +104,7 @@ My goal is to become a skilled DevOps Engineer capable of designing, automating,
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdeshmukh304&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdeshmukh304&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omdeshmukh304&theme=tokyonight" />
-</p>
 
 ---
 
