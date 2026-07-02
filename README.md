@@ -1,58 +1,121 @@
 # Hi there 👋
 
-I'm Om Deshmukh, an Information Technology student with a strong interest in DevOps, Cloud Computing, Automation, and Platform Engineering.
+I'm **Om Deshmukh**, an Information Technology student passionate about **DevOps, Cloud Computing, Automation, and Platform Engineering**.
 
-Over the past year, I've been building hands-on experience with modern DevOps practices by working on real projects, labs, and automation workflows. My focus is on understanding how applications move from development to production using scalable, reliable, and automated infrastructure.
+I recently completed a **90 Days of DevOps** learning journey where I built hands-on projects covering Linux, Git, Docker, Kubernetes, Terraform, Ansible, CI/CD, GitOps, Observability, and AWS. I enjoy building real-world infrastructure, automating deployments, and exploring cloud-native technologies through practical projects.
 
-## 🚀 Current Focus
+---
 
-* Building production-style DevOps projects
-* Cloud-native technologies and Kubernetes
-* Infrastructure as Code (IaC)
-* CI/CD and GitOps workflows
-* Monitoring, Observability, and Reliability Engineering
+## 🚀 Tech Stack
 
-## 🛠️ Tech Stack
+### ☁️ Cloud
 
-My experience spans cloud, DevOps, and automation technologies, including AWS, Docker, Kubernetes, Helm, Terraform, and Ansible. I have also explored GitOps practices to better understand modern deployment and infrastructure management workflows.
+* AWS
 
-For version control, collaboration, and continuous integration, I regularly work with Git, GitHub, GitHub Actions, GitLab CI/CD, and Jira.
+### 🐳 Containers & Orchestration
 
-My observability and reliability engineering experience includes working with Prometheus, Grafana, Loki, and OpenTelemetry to collect metrics, analyze logs, and improve system visibility.
+* Docker
+* Kubernetes
+* Helm
 
-I use Python and Bash for automation, scripting, and building tools that simplify operational tasks and reduce manual effort.
+### 🏗️ Infrastructure as Code
 
-Most of my hands-on work is performed in Linux environments, primarily Ubuntu, where I continue to strengthen my understanding of systems administration and infrastructure operations.
+* Terraform
+* Ansible
+
+### 🔄 CI/CD & GitOps
+
+* Git
+* GitHub
+* GitHub Actions
+* GitLab CI/CD
+* ArgoCD
+
+### 📊 Monitoring & Observability
+
+* Prometheus
+* Grafana
+* Loki
+* OpenTelemetry
+
+### 💻 Programming & Automation
+
+* Python
+* Bash
+
+### 🐧 Operating System
+
+* Ubuntu Linux
+
+---
 
 ## 📂 Featured Projects
 
-### AI-BankApp DevOps Platform
+### 🤖 AI-BankApp DevOps Platform
 
-A complete DevOps implementation of an AI-powered banking application using Docker, Kubernetes, Helm, observability tools, and deployment automation practices.
+A production-style DevOps implementation of an AI-powered banking application using Docker, Kubernetes, Helm, GitHub Actions, and monitoring tools. The project demonstrates containerization, orchestration, Infrastructure as Code, CI/CD, and cloud-native deployment practices.
 
-### 90 Days of DevOps
+---
 
-A public learning journey documenting hands-on work across Linux, Git, Docker, Terraform, Ansible, Kubernetes, Observability, Helm, and Cloud technologies.
+### 🚀 KubeHealer
 
-### Infrastructure Automation
+An AI-powered Kubernetes self-healing platform that detects issues, analyzes failures, and automates recovery workflows using AI agents and Kubernetes automation.
 
-Automation scripts and Infrastructure as Code projects focused on reducing manual operations and improving deployment efficiency.
+---
 
-### Monitoring & Observability Stack
+### 📚 90 Days of DevOps
 
-Implementation of Prometheus, Grafana, Loki, and OpenTelemetry for metrics, logging, and application monitoring.
+A public learning journey documenting hands-on work across Linux, Git, Docker, Terraform, Ansible, Kubernetes, Helm, AWS, CI/CD, GitOps, Monitoring, and Observability.
 
-## 📈 Currently Learning
+---
 
-* AWS Cloud Services
+### ⚙️ Infrastructure Automation
+
+Automation scripts and Infrastructure as Code projects focused on reducing manual operations, improving deployment consistency, and simplifying infrastructure management.
+
+---
+
+### 📈 Monitoring & Observability Stack
+
+Implementation of Prometheus, Grafana, Loki, and OpenTelemetry for collecting metrics, centralized logging, monitoring applications, and improving infrastructure visibility.
+
+---
+
+## 📜 Certification
+
+* DevOps Certification – TrainWithShubham
+
+---
+
+## 🌱 Currently Exploring
+
 * Advanced Kubernetes
+* AWS Cloud Services
 * GitOps at Scale
-* Production Infrastructure Design
-* Platform Engineering Concepts
+* Platform Engineering
+* Site Reliability Engineering (SRE)
+* AI for DevOps
 
-## 🎯 Goal
+---
 
-To become a skilled DevOps Engineer capable of designing, automating, and managing reliable cloud infrastructure while continuously learning through real-world projects and hands-on experience.
+## 🎯 Career Goal
+
+My goal is to become a skilled DevOps Engineer capable of designing, automating, and managing scalable cloud infrastructure while continuously improving software delivery through Infrastructure as Code, CI/CD, GitOps, and cloud-native technologies.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omdeshmukh304&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdeshmukh304&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omdeshmukh304&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -67,5 +130,4 @@ https://github.com/omdeshmukh304
 
 ---
 
-*"Building, automating, and learning one deployment at a time."*
-
+> *"Building scalable infrastructure, automating deployments, and learning one project at a time."*
